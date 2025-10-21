@@ -86,7 +86,7 @@ module Gate_1 (
 
 endmodule
 
- Developed by: RegisterNumber: 25010479
+ Developed by:Syed Samieudeen RegisterNumber: 25010479
  
 **Logic symbol & Truthtable**
 
